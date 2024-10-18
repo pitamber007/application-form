@@ -15,7 +15,7 @@ This repository contains a simple HTML application form that allows users to sub
 
 To view the application form, visit the following link:
 
-[View Application Form](https://pitambersingh007.github.io/application-form/index.html)
+[View Application Form](https://pitamber007.github.io/application-form/index.html)
 
 ## Usage
 
