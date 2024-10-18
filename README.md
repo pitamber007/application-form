@@ -15,7 +15,7 @@ This repository contains a simple HTML application form that allows users to sub
 
 To view the application form, visit the following link:
 
-[View Application Form](https://<your-username>.github.io/<repository-name>/application_form.html)
+[View Application Form](https://pitambersingh007.github.io/application-form/application_form.html)
 
 ## Usage
 
@@ -26,12 +26,8 @@ To view the application form, visit the following link:
 ## Technologies Used
 
 - HTML
-- CSS
 
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and make a pull request.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
